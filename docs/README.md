@@ -19,3 +19,7 @@
 - Square: `P = 4a`
 - Triangle: `P = a + b + c`
 
+
+# Some changes for Lesson 6 practice (LR.11)
+Author: Ivan Dubrovin, group 8K31, student No. 6
+Added section describing this practice change via git branch + commit + push + pull request.
